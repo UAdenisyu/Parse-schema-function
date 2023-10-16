@@ -1,0 +1,16 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "description": "A sample Node.js project",
+  "main": "src/parseSchema.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/parseSchema.js"
+  },
+  "keywords": [],
+  "author": "Denis Yukhnovets",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
